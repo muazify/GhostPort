@@ -25,7 +25,7 @@
 
 1.  Clone the GhostPort repository from GitHub:
     ```bash
-    git clone [https://github.com/yourusername/GhostPort.git](https://github.com/yourusername/GhostPort.git)
+    git clone https://github.com/muazify/GhostPort.git
     cd GhostPort
     ```
 
